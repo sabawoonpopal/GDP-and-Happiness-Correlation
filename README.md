@@ -10,7 +10,7 @@ The dataset used in this research is sourced from Kaggle and is available at the
 The dataset contains a comprehensive collection of socioeconomic and well-being variables for nations all around the world, making it an invaluable resource for cross-country analyses.
 
 ## Contents
-- `Research_Paper.pdf`: The PDF document containing the research paper and its findings.
+- `Statistical Report with R.pdf`: The PDF document containing the research paper and its findings.
 - `Raw_Data.xlsx`: The Excel file containing the raw data used in the analysis.
 - `R_Scripts`: This folder contains R scripts used to clean, analyze, and visualize the data.
 
