@@ -1,7 +1,7 @@
 # Statistical Research Paper: GDP and Happiness Index Correlation
 
 ## Overview
-A statistical research article is available in this repository that investigates the relationship between a country's GDP (Gross Domestic Product) and its Happiness Index score. To get insights into the relationship between economic prosperity and overall well-being, the study use data analysis and visualization techniques in R.
+A statistical research article is available in this repository that investigates the relationship between a country's GDP (Gross Domestic Product) and its citizens overall happiness and welfare. To get insights into the relationship between economic prosperity and overall well-being, the study use data analysis and visualization techniques in R.
 
 ## Data Source
 The dataset used in this research is sourced from Kaggle and is available at the following link:
