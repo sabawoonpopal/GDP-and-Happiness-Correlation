@@ -11,8 +11,7 @@ The dataset contains a comprehensive collection of socioeconomic and well-being 
 
 ## Contents
 - `Statistical Report with R.pdf`: The PDF document containing the research paper and its findings.
-- `Raw_Data.xlsx`: The Excel file containing the raw data used in the analysis.
-- `R_Scripts`: This folder contains R scripts used to clean, analyze, and visualize the data.
+- `Happiness Rating by Country.xlsx`: The Excel file containing the raw data used in the analysis.
 
 ## Key Findings
 The research paper presents the following key findings:
